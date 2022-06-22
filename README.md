@@ -1,8 +1,8 @@
 # ExcelR-Data-Science-Assignments
 
-All Data Science Assignments are Available in this file 
+This is All Data Science Assignments Files. You can see all the files are Available in this Repositories.
 
-Following List of Files
+List of Following Files of all Data Science Assignments Topices:-
 
 1.Assignment 1 (Basic Statistics_Level 1)
 
@@ -39,3 +39,5 @@ Following List of Files
 17.Assignment 17(Naive Bayes)
 
 18.Assignment 18(Forecasting)
+
+Thank you....👍
